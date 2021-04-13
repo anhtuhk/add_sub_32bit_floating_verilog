@@ -1,7 +1,7 @@
 ./testbench.v
 ./ top.v
-./../shift_right/shift_right.v
-./../shift_left/shift_left.v
-./../alu/alu.v
-./../normalize/normalize.v
-./../mux/mux.v
+./shift_right.v
+./shift_left.v
+./alu.v
+./normalize.v
+./mux.v
